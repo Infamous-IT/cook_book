@@ -1,0 +1,4 @@
+#Fri Aug 25 10:38:59 EEST 2023
+base.0=/Users/mac/Documents/Projects/cook_book/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
